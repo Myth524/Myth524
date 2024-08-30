@@ -12,6 +12,7 @@ I am a student at EIA University, deeply passionate about continuous learning wi
 - 👨‍💻 **Roles**: Web Developer, Backend Developer, Frontend Developer, Programmer, Coder
 - 🤖 **Interests**: Artificial Intelligence (AI), Cloud Computing, Data Analysis, Web Development
 - 🚀 **Goal**: To build scalable and impactful solutions that leverage modern technologies
+
 [![Resume](https://img.shields.io/badge/Resume-%23FFB6C1.svg?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HdNj1boVeIOsFGsQ2ZNyFirQIabIRCrV/view?usp=drive_link)
 
 ---
