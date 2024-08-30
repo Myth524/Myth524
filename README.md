@@ -1,4 +1,4 @@
-# Hi, I'm Simón Londoño Londono 👋
+# Hi, I'm Simón Londoño 👋
 
 🎓 **Current student at University EIA**  
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%B3n-londo%C3%B1o-6747a3323/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=netlify&logoColor=white)](https://portafoliosimonlondono.netlify.app/)
@@ -38,14 +38,43 @@ I am a student at EIA University, deeply passionate about continuous learning wi
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-#### Other Tools
+#### Data & AI Tools
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%233377AD.svg?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2311AEDD.svg?style=flat&logo=seaborn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+
+#### Business Intelligence (BI)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
+
+#### Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=flat&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=flat&logo=apacheairflow&logoColor=white)
+
+#### Cloud
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat&logo=amazons3&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%2347A248.svg?style=flat&logo=amazoncloudfront&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-%23FF9900.svg?style=flat&logo=amazoncognito&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-%2300C4CC.svg?style=flat&logo=contentful&logoColor=white)
+
+#### DevOps Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=flat&logo=google-colab&logoColor=white)
-![FXML](https://img.shields.io/badge/FXML-%23F44336.svg?style=flat)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat&logo=apache-maven&logoColor=white)
 
+#### Handling Null Values Tools
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
-📫 Feel free to connect or check out my work!
+---
+
+### 📊 GitHub Stats
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myth524&show_icons=true&theme=radical)
+
