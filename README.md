@@ -12,8 +12,7 @@ I am a student at EIA University, deeply passionate about continuous learning wi
 - 👨‍💻 **Roles**: Web Developer, Backend Developer, Frontend Developer, Programmer, Coder
 - 🤖 **Interests**: Artificial Intelligence (AI), Cloud Computing, Data Analysis, Web Development
 - 🚀 **Goal**: To build scalable and impactful solutions that leverage modern technologies
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/Myth524) [![Resume](https://img.shields.io/badge/Resume-%23FFB6C1.svg?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HdNj1boVeIOsFGsQ2ZNyFirQIabIRCrV/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-%23FFB6C1.svg?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HdNj1boVeIOsFGsQ2ZNyFirQIabIRCrV/view?usp=drive_link)
 
 ---
 
@@ -50,11 +49,6 @@ I am a student at EIA University, deeply passionate about continuous learning wi
 #### Business Intelligence (BI)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
-
-#### Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=flat&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=flat&logo=apacheairflow&logoColor=white)
 
 #### Cloud
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat&logo=amazons3&logoColor=white)
